@@ -10,7 +10,7 @@ _Web developer_ <br>
   </a>
  
 </p>
-## Summary: 
+## :sparkles: Summary: 
 Experienced web developer proficient in building modern web applications using React.js and Node.js. Skilled
 in both front-end and back-end development, with a strong understanding of web technologies. 
 
