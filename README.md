@@ -5,9 +5,9 @@
 <h4>_Web developer_ </h4>:round_pushpin:<br>
 
 
-[Mobile]: +46729154846 <br>
-[Email: hoangdinh2411@gmail.com](mailto:hoangdinh2411@gmail.com) <br>
-:link: [LinkedIn](https://www.linkedin.com/in/williamdinh2411) 
+:iphone: Mobile: +46729154846 <br>
+:email: Email: hoangdinh2411@gmail.com <br>
+:link: [LinkedIn](https://www.linkedin.com/in/williamdinh2411) <br>
 :link: [Gitlab](https://gitlab.com/hoangdinh2411) 
 <br>
 
