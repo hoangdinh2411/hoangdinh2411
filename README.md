@@ -27,6 +27,14 @@ This web page provides an overview of product performance and testing metrics th
 We are rebuilding and refactoring the application, Fixing issues, and improving the performance of the application
 
 <br><br>
+**Final Exam Project:office: ** @ [Companions](https://companions-app-client-sigma.vercel.app/journeys) _(Jan 2024 - Feb 2024)_ <br>
+Our Companions Application aims to provide a convenient and eco-friendly solution for commuters to share rides , reducing traffic congestion, carbon emissions and transportation costs. Build with NextJS , NodeJS and MongoDB , our platform offers a seamless experience for both drivers and passengers, facilitating easy coordination and communication.
+Implemented CI/CD pipelines for the project to automatically deploy Frontend on Vercel and using Docker Image to deploy Backend on Render
+[Repository](https://github.com/hoangdinh2411/Companions-App)
+
+<br><br>
+
+
 
 
 **Frontend Developer (Remote) ** @ (Aug 2022 - May 2023)_ <br>
