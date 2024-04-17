@@ -59,6 +59,8 @@ Sometimes I help to improve or create new Apis.
 ## 📕 :mortar_board: Education
 
 **Bachelor's degree** Devops Engineer <br>
-[IT Högskolan Sweden :school:](https://www.iths.se/) - Göteborg, Swden(April 2024 - June 2024)_ <br>
+[IT Högskolan Sweden :school:](https://www.iths.se/) - Göteborg, Swden(April 2024 - June 2024)_ 
+<br>
+<br>
 **Bachelor's degree** Fullstack Develope focused on full-stack JavaScript<br>
 [Folkuniversitetet school Göteborg :school: ](https://www.folkuniversitetet.se/) - Göteborg, Swden(September 2022 - June 2024)_ <br>
