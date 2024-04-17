@@ -2,7 +2,7 @@
 
  <h1>William Dinh</h1>
 :computer:  :swimmer:  :loop: <br>
-<h4>_Web developer_ </h4>:round_pushpin:<br>
+<h4>_Web developer_ </h4>
 
 
 :iphone: Mobile: +46729154846 <br>
