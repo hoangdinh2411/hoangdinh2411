@@ -1,5 +1,5 @@
-# William Dinh
-
+![image](https://github.com/hoangdinh2411/digital-cv/assets/8503000/52ed7095-9952-4fc7-bfff-9e963db95f7f)# William Dinh
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fprogramming_2274766&psig=AOvVaw07fs14937BWGAn-8VfK2cE&ust=1713440772706000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjswLaWyYUDFQAAAAAdAAAAABAJ"/> 
 _Web developer_ <br>
 [Mobile]: +46729154846 <br>
 [Email: hoangdinh2411@gmail.com](mailto:hoangdinh2411@gmail.com) <br>
@@ -48,8 +48,8 @@ Sometimes I help to improve or create new Apis.
 <br>
 ## 💬 Languages
 
-**English**:  <br>
-**Swedish**: <br>
+**English**: Intermediate <br>
+**Swedish**: Intermediate  <br>
 **Vietnamese**: Native<br>
 <br><br>
 
