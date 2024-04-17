@@ -1,6 +1,6 @@
-# William Dinh
 :computer: / :swimmer: / :loop: <br><br>
-_Web developer_ :round_pushpin:<br>
+# <h1>William Dinh</h1>
+<h4>_Web developer_ </h4>h4>:round_pushpin:<br>
 [Mobile]: +46729154846 <br>
 [Email: hoangdinh2411@gmail.com](mailto:hoangdinh2411@gmail.com) <br>
 :link: [LinkedIn](https://www.linkedin.com/in/williamdinh2411) 
