@@ -1,10 +1,18 @@
 :computer: / :swimmer: / :loop: <br><br>
+
 # <h1>William Dinh</h1>
+
 <h4>_Web developer_ </h4>h4>:round_pushpin:<br>
+
+
 [Mobile]: +46729154846 <br>
 [Email: hoangdinh2411@gmail.com](mailto:hoangdinh2411@gmail.com) <br>
 :link: [LinkedIn](https://www.linkedin.com/in/williamdinh2411) 
 :link: [Gitlab](https://gitlab.com/hoangdinh2411) 
+<br>
+
+
+
 ## :sparkles: Summary: 
 Experienced web developer proficient in building modern web applications using React.js and Node.js. Skilled
 in both front-end and back-end development, with a strong understanding of web technologies. 
