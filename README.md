@@ -1,6 +1,6 @@
 # William Dinh
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fprogramming_2274766&psig=AOvVaw07fs14937BWGAn-8VfK2cE&ust=1713440772706000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjswLaWyYUDFQAAAAAdAAAAABAJ" width="36px" height="36px"/> 
-_Web developer_ <br>
+:computer: / :swimmer: / :loop:
+_Web developer_ :round_pushpin:<br>
 [Mobile]: +46729154846 <br>
 [Email: hoangdinh2411@gmail.com](mailto:hoangdinh2411@gmail.com) <br>
 
@@ -18,7 +18,7 @@ in both front-end and back-end development, with a strong understanding of web t
 
 ## 👩🏼‍💻 Engineering Experience
 
-**Web developer intern at Plejd AB ** @ [SPREED](https://spreed.plejd.io) _(Jan 2024 - Present)_ <br>
+**Web developer intern at Plejd AB :office: ** @ [SPREED](https://spreed.plejd.io) _(Jan 2024 - Present)_ <br>
 SPREED: Performance Dashboard for Product Testing
 This web page provides an overview of product performance and testing metrics through charts and test statistics.
 We are rebuilding and refactoring the application, Fixing issues, and improving the performance of the application
@@ -53,9 +53,9 @@ Sometimes I help to improve or create new Apis.
 **Vietnamese**: Native<br>
 <br><br>
 
-## 📕 Education
+## 📕 :mortar_board: Education
 
 **Bachelor's degree** Devops Engineer <br>
-[IT Högskolan Sweden ](https://www.iths.se/) - Göteborg, Swden(April 2024 - June 2024)_ <br>
+[IT Högskolan Sweden :school:](https://www.iths.se/) - Göteborg, Swden(April 2024 - June 2024)_ <br>
 **Bachelor's degree** Fullstack Develope focused on full-stack JavaScript<br>
-[Folkuniversitetet school Göteborg ](https://www.folkuniversitetet.se/) - Göteborg, Swden(September 2022 - June 2024)_ <br>
+[Folkuniversitetet school Göteborg :school: ](https://www.folkuniversitetet.se/) - Göteborg, Swden(September 2022 - June 2024)_ <br>
