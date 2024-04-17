@@ -1,7 +1,7 @@
-:computer: / :swimmer: / :loop: <br><br>
 
-# <h1>William Dinh</h1>
 
+ <h1>William Dinh</h1>
+:computer:  :swimmer:  :loop: <br>
 <h4>_Web developer_ </h4>h4>:round_pushpin:<br>
 
 
