@@ -36,9 +36,6 @@ Implemented <b>CI/CD pipelines</b> for the project to automatically deploy Front
 
 <br><br>
 
-
-
-
 **Frontend Developer (Remote) ** @ (Aug 2022 - May 2023)_ <br>
 Managed a team of 3 developers to build an E-commerce project that sells technology accessories, for
 instance, keyboards and computer mice, mobile accessories, etc...
@@ -46,6 +43,21 @@ Sometimes I help to improve or create new Apis.
 
 <br><br>
 
+## 📕 :mortar_board: Education
+
+**Bachelor's degree** Devops Engineer <br>
+[IT Högskolan Sweden :school:](https://www.iths.se/) - Gothenburg, Sweden(April 2024 - June 2024)_ 
+<br>
+<br>
+**Bachelor's degree** Fullstack Develope focused on full-stack JavaScript<br>
+[Folkuniversitetet school Gothenburg :school: ](https://www.folkuniversitetet.se/) - Gothenburg, Sweden(September 2022 - June 2024)_ <br>
+
+## 💬 Languages
+
+**English**: Intermediate <br>
+**Swedish**: Intermediate  <br>
+**Vietnamese**: Native<br>
+<br><br>
 
 ## Skill
 <div >
@@ -59,18 +71,6 @@ Sometimes I help to improve or create new Apis.
 32" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/></code><br>
 </div>
 <br>
-## 💬 Languages
 
-**English**: Intermediate <br>
-**Swedish**: Intermediate  <br>
-**Vietnamese**: Native<br>
-<br><br>
 
-## 📕 :mortar_board: Education
 
-**Bachelor's degree** Devops Engineer <br>
-[IT Högskolan Sweden :school:](https://www.iths.se/) - Gothenburg, Sweden(April 2024 - June 2024)_ 
-<br>
-<br>
-**Bachelor's degree** Fullstack Develope focused on full-stack JavaScript<br>
-[Folkuniversitetet school Gothenburg :school: ](https://www.folkuniversitetet.se/) - Gothenburg, Sweden(September 2022 - June 2024)_ <br>
