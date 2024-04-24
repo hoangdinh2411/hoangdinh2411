@@ -7,8 +7,8 @@
 
 :iphone: Mobile: +46729154846 <br>
 :email: Email: hoangdinh2411@gmail.com <br>
-🏠: Address: Blåkullagatan 19B, Helsingborg, Sweden
-:link: [LinkedIn](https://www.linkedin.com/in/williamdinh2411) <br>
+🏠: Address: Blåkullagatan 19B, Helsingborg, Sweden <br>
+:link: [LinkedIn](https://www.linkedin.com/in/williamdinh2411)
 :link: [Gitlab](https://gitlab.com/hoangdinh2411) 
 <br>
 
