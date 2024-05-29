@@ -1,4 +1,4 @@
-
+![image](https://github.com/hoangdinh2411/hoangdinh2411/assets/8503000/d941c4c5-7d7e-4815-80ec-5263fd50a97f)
 
  <h1>William Dinh</h1>
 :computer:  :swimmer:  :loop: <br>
@@ -26,6 +26,9 @@ in both front-end and back-end development, with a strong understanding of web t
 SPREED: Performance Dashboard for Product Testing
 This web page provides an overview of product performance and testing metrics through charts and test statistics.
 We are rebuilding and refactoring the application, Fixing issues, and improving the performance of the application
+Because the product is for internal use , so I just leave a image of the product I did below 
+![image](https://github.com/hoangdinh2411/hoangdinh2411/assets/8503000/6b173660-3a99-4271-aa67-ad5dd4e36608)
+
 
 <br><br>
 **Final Exam Project:office: ** @ [Companions](https://companions-app-client-sigma.vercel.app/journeys) _(Jan 2024 - Feb 2024)_ <br>
