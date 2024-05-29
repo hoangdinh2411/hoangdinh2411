@@ -9,6 +9,7 @@
 :email: Email: hoangdinh2411@gmail.com <br>
 🏠: Address: Blåkullagatan 19B, Helsingborg, Sweden <br>
 :link: [LinkedIn](https://www.linkedin.com/in/williamdinh2411)
+<br>
 :link: [Gitlab](https://gitlab.com/hoangdinh2411) 
 <br>
 
