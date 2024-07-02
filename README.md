@@ -6,7 +6,7 @@
 
 
 :iphone: Mobile: +46729154846 <br>
-:email: Email: hoangdinh2411@gmail.com <br>
+:email: Email:william.dinh.dev@gmail.com <br>
 🏠: Address: Blåkullagatan 19B, Helsingborg, Sweden <br>
 :link: [LinkedIn](https://www.linkedin.com/in/williamdinh2411)
 <br>
@@ -23,7 +23,7 @@ in both front-end and back-end development, with a strong understanding of web t
 
 ## 👩🏼‍💻 Engineering Experience
 
-**Web developer intern at Plejd AB in Gothenburg , Sweden:office: ** @ [SPREED](https://spreed.plejd.io) _(Jan 2024 - Present)_ <br>
+**Fullstack web developer intern at Plejd AB in Gothenburg , Sweden:office: ** @ [SPREED](https://spreed.plejd.io) _(Jan 2024 - Present)_ <br>
 SPREED: Performance Dashboard for Product Testing
 This web page provides an overview of product performance and testing metrics through charts and test statistics.
 We are rebuilding and refactoring the application, Fixing issues, and improving the performance of the application
