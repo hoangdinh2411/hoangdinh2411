@@ -23,6 +23,15 @@ in both front-end and back-end development, with a strong understanding of web t
 
 ## 👩🏼‍💻 Engineering Experience
 
+
+
+**Web developer at Globy AI, Sweden ( remotely)
+  * Building the landing page with NextJS  https://www.globy.ai/
+  * Optimizing the performance of the landing page
+  * Build a Chatbot application
+  * SEO optimization
+ 	
+
 **Fullstack web developer intern at Plejd AB in Gothenburg , Sweden:office: ** @ [SPREED](https://spreed.plejd.io) _(Jan 2024 - Present)_ <br>
 SPREED: Performance Dashboard for Product Testing
 This web page provides an overview of product performance and testing metrics through charts and test statistics.
