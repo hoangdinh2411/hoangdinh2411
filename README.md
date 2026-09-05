@@ -1,83 +1,88 @@
+# William Đinh — Portfolio
 
+A one-page portfolio site styled as a technical drawing sheet: a faint
+blueprint grid, a corner title block like an architectural drawing, and an
+animated circuit-style schematic of the stack instead of a hero photo.
+Built to feel like a workshop, not a résumé.
 
- <h1>William Dinh</h1>
-:computer:  :swimmer:  :loop: <br>
-<h3>_Web developer_ </h3>
+No framework, no build step — one `index.html` with inline CSS/JS and
+Google Fonts loaded over a CDN link.
 
+---
 
-:iphone: Mobile: +46729154846 <br>
-:email: Email:william.dinh.dev@gmail.com <br>
-🏠: Address: Blåkullagatan 19B, Helsingborg, Sweden <br>
-:link: [LinkedIn](https://www.linkedin.com/in/williamdinh2411)
-<br>
-:link: [Gitlab](https://gitlab.com/hoangdinh2411) 
-<br>
+## What's in it
 
+- **Hero** — name, role (typed in on load), a short intro, and contact links.
+- **Schematic diagram** — an SVG circuit board showing Frontend → Backend →
+  Data → Infra, with traces that draw themselves in once on page load, and
+  nodes that glow amber on hover.
+- **Currently building** — a spotlight on the active project (Sista Steget),
+  with a pulsing "live" indicator.
+- **Field notes** — past roles told as short case notes (what was built and
+  why it mattered) rather than bullet-point job listings.
+- **Toolkit** — a grid of the core technologies, each highlighting on hover.
+- **Origin** — education, kept brief.
+- **Footer** — contact links again, for anyone who scrolls straight to the
+  bottom.
 
+Design details:
+- Colors, spacing, and animation timings all live in the `<style>` block —
+  CSS variables under `:root` at the top control the palette.
+- All motion respects `prefers-reduced-motion`: if a visitor's system has
+  that on, the typing effect, schematic draw-in, and parallax are skipped
+  and everything just appears in place.
+- The mouse-parallax on the background grid is subtle by design — it's
+  controlled by the `mousemove` listener near the bottom of the file.
 
-## :sparkles: Summary: 
-Experienced web developer proficient in building modern web applications using React.js and Node.js. Skilled
-in both front-end and back-end development, with a strong understanding of web technologies. 
+## Preview locally
 
+Open `index.html` directly in a browser, or serve it so relative behavior
+matches production:
 
+```bash
+python3 -m http.server 8000
+```
 
-## 👩🏼‍💻 Engineering Experience
+Then visit `http://localhost:8000`.
 
+## Deploy on GitHub Pages (free)
 
+1. Create a new repository on GitHub, e.g. `william-portfolio`.
+2. From this folder, push it:
+   ```bash
+   git init
+   git add .
+   git commit -m "Initial portfolio"
+   git branch -M main
+   git remote add origin https://github.com/<your-username>/william-portfolio.git
+   git push -u origin main
+   ```
+3. On GitHub: **Settings → Pages**.
+4. Under **Build and deployment → Source**, choose **Deploy from a branch**.
+5. Set **Branch** to `main`, folder to `/ (root)`, then **Save**.
+6. After a minute, it's live at:
+   `https://<your-username>.github.io/william-portfolio/`
 
-** Web developer at Globy AI, Sweden ( remotely)
-  * Building the landing page with NextJS  https://www.globy.ai/
-  * Optimizing the performance of the landing page
-  * Build a Chatbot application
-  * SEO optimization
+## Before you push — two placeholders to swap
 
+1. **GitHub link** — the "GitHub" link in the hero currently points to
+   `https://github.com/` with no username. Search `index.html` for
+   `href="https://github.com/"` and put your profile URL in.
+2. **LinkedIn** — your source resume's LinkedIn link went to a
+   notifications page (`linkedin.com/notifications/?filter=all`), not a
+   public profile, so it was left out of this build entirely. Add a
+   `<a href="https://linkedin.com/in/<you>">LinkedIn</a>` next to the other
+   contact links once you have the right URL.
 
-<br><br>
+## Customize further
 
-** Fullstack web developer intern at Plejd AB in Gothenburg , Sweden:office: ** @ [SPREED](https://spreed.plejd.io) _(Jan 2024 - Present)_ <br>
-SPREED: Performance Dashboard for Product Testing
-This web page provides an overview of product performance and testing metrics through charts and test statistics.
-We are rebuilding and refactoring the application, Fixing issues, and improving the performance of the application
-Because the product is for internal use , so I just leave a image of the product I did below 
-
-
-<br><br>
-
-**Frontend Developer (Remote) ** @ (Aug 2022 - May 2023)_ <br>
-Managed a team of 3 developers to build an E-commerce project that sells technology accessories, for
-instance, keyboards and computer mice, mobile accessories, etc...
-Sometimes I help to improve or create new Apis.
-
-<br><br>
-
-## 📕 :mortar_board: Education
-
-**Bachelor's degree** Devops Engineer <br>
-[IT Högskolan Sweden :school:](https://www.iths.se/) - Gothenburg, Sweden(April 2024 - June 2024)_ 
-<br>
-<br>
-**Bachelor's degree** Fullstack Develope focused on full-stack JavaScript<br>
-[Folkuniversitetet school Gothenburg :school: ](https://www.folkuniversitetet.se/) - Gothenburg, Sweden(September 2022 - June 2024)_ <br>
-
-## 💬 Languages
-
-**English**: Intermediate <br>
-**Swedish**: Intermediate  <br>
-**Vietnamese**: Native<br>
-<br><br>
-
-## Skill
-<div >
-	<code><img width="32" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code> <br>
-	<code><img width="32" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code><br>
-	<code><img width="32
-32" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code><br>
-	<code><img width="32
-32" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code><br>
-	<code><img width="32
-32" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/></code><br>
-</div>
-<br>
-
-
-
+- **Palette** — edit the hex values under `:root` in `<style>` (`--bg`,
+  `--amber`, `--cyan`, etc.) to shift the whole site's mood.
+- **Copy** — the tagline, project description, and field notes are all
+  plain text in `index.html`; edit them directly, no build step needed.
+- **New project or role** — copy an existing `.note` block (in "Field
+  notes") or the `.feature` block (in "Currently building") and edit the
+  content.
+- **Schematic diagram** — the SVG under `<div class="diagram-wrap">` uses
+  absolute coordinates for the boxes and connecting lines; nudge the `x`/`y`
+  values if you add or remove a layer.
