@@ -40,8 +40,11 @@ keeps it all standing.
 ## Stack
 
 ![Frontend](https://img.shields.io/badge/Frontend-React_·_Next.js_·_TypeScript_·_Tailwind-0b1a2b?style=flat-square&labelColor=1c3350&color=e0a24a)
+
 ![Backend](https://img.shields.io/badge/Backend-Node.js_·_NestJS_·_WebSockets_·_Auth0-0b1a2b?style=flat-square&labelColor=1c3350&color=7fb8cf)
+
 ![Data](https://img.shields.io/badge/Data-PostgreSQL_·_Supabase_·_Sanity-0b1a2b?style=flat-square&labelColor=1c3350&color=e0a24a)
+
 ![Infra](https://img.shields.io/badge/Infra-AWS_·_Docker_·_Vercel_·_GitHub_Actions-0b1a2b?style=flat-square&labelColor=1c3350&color=7fb8cf)
 
 ## Contact
