@@ -1,88 +1,54 @@
-# William Đinh — Portfolio
+# William Đinh
 
-A one-page portfolio site styled as a technical drawing sheet: a faint
-blueprint grid, a corner title block like an architectural drawing, and an
-animated circuit-style schematic of the stack instead of a hero photo.
-Built to feel like a workshop, not a résumé.
+*Software engineer, Helsingborg, Sweden — schema to deployed interface.*
 
-No framework, no build step — one `index.html` with inline CSS/JS and
-Google Fonts loaded over a CDN link.
+I design, build, and ship full-stack products end to end. Lately: an
+AI-assisted site editor at Globy AI, and [Sista Steget](https://sistasteget.se),
+a citizenship-test platform I built solo and still ship weekly.
 
 ---
 
-## What's in it
+### `// currently building`
 
-- **Hero** — name, role (typed in on load), a short intro, and contact links.
-- **Schematic diagram** — an SVG circuit board showing Frontend → Backend →
-  Data → Infra, with traces that draw themselves in once on page load, and
-  nodes that glow amber on hover.
-- **Currently building** — a spotlight on the active project (Sista Steget),
-  with a pulsing "live" indicator.
-- **Field notes** — past roles told as short case notes (what was built and
-  why it mattered) rather than bullet-point job listings.
-- **Toolkit** — a grid of the core technologies, each highlighting on hover.
-- **Origin** — education, kept brief.
-- **Footer** — contact links again, for anyone who scrolls straight to the
-  bottom.
+**[Sista Steget](https://sistasteget.se)** — a multilingual platform helping
+people prepare for the Swedish citizenship test. Every part of it, schema to
+shipped feature, built by me: auth, payments, and content through Supabase,
+Stripe, and Sanity; a quiz engine that tracks each learner's progress.
 
-Design details:
-- Colors, spacing, and animation timings all live in the `<style>` block —
-  CSS variables under `:root` at the top control the palette.
-- All motion respects `prefers-reduced-motion`: if a visitor's system has
-  that on, the typing effect, schematic draw-in, and parallax are skipped
-  and everything just appears in place.
-- The mouse-parallax on the background grid is subtle by design — it's
-  controlled by the `mousemove` listener near the bottom of the file.
+`Next.js` `React` `TypeScript` `Tailwind` `Supabase` `Sanity` `Stripe` `Vercel`
 
-## Preview locally
+---
 
-Open `index.html` directly in a browser, or serve it so relative behavior
-matches production:
+### `// field notes`
 
-```bash
-python3 -m http.server 8000
-```
+**Globy AI** *(2024–2026)* — Built an AI-native site editor where you edit a
+live page by prompting it, with WYSIWYG and prompt-based editing side by
+side. WebSockets so responses feel conversational, not a page reload. Auth0
+SSO so one login covers the whole product suite.
 
-Then visit `http://localhost:8000`.
+**Trust Coupon** *(freelance, 2025)* — A coupon-and-discount platform, idea
+to production: Next.js and NestJS on a Postgres backend, UI tuned until it
+felt instant.
 
-## Deploy on GitHub Pages (free)
+**Plejd** *(2024, Gothenburg)* — Made an established React/Next.js codebase
+faster through targeted refactoring, memoization, and code splitting, plus
+the testing work that keeps it all standing.
 
-1. Create a new repository on GitHub, e.g. `william-portfolio`.
-2. From this folder, push it:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial portfolio"
-   git branch -M main
-   git remote add origin https://github.com/<your-username>/william-portfolio.git
-   git push -u origin main
-   ```
-3. On GitHub: **Settings → Pages**.
-4. Under **Build and deployment → Source**, choose **Deploy from a branch**.
-5. Set **Branch** to `main`, folder to `/ (root)`, then **Save**.
-6. After a minute, it's live at:
-   `https://<your-username>.github.io/william-portfolio/`
+---
 
-## Before you push — two placeholders to swap
+### `// how it's wired`
 
-1. **GitHub link** — the "GitHub" link in the hero currently points to
-   `https://github.com/` with no username. Search `index.html` for
-   `href="https://github.com/"` and put your profile URL in.
-2. **LinkedIn** — your source resume's LinkedIn link went to a
-   notifications page (`linkedin.com/notifications/?filter=all`), not a
-   public profile, so it was left out of this build entirely. Add a
-   `<a href="https://linkedin.com/in/<you>">LinkedIn</a>` next to the other
-   contact links once you have the right URL.
+| | |
+|---|---|
+| **Frontend** | React · Next.js · TypeScript · Tailwind CSS |
+| **Backend** | Node.js · NestJS · WebSockets · Auth0 |
+| **Data** | PostgreSQL · Supabase · Sanity CMS |
+| **Infra** | AWS (Amplify · S3 · Lambda · EC2 · API Gateway) · Docker · Vercel · GitHub Actions |
 
-## Customize further
+---
 
-- **Palette** — edit the hex values under `:root` in `<style>` (`--bg`,
-  `--amber`, `--cyan`, etc.) to shift the whole site's mood.
-- **Copy** — the tagline, project description, and field notes are all
-  plain text in `index.html`; edit them directly, no build step needed.
-- **New project or role** — copy an existing `.note` block (in "Field
-  notes") or the `.feature` block (in "Currently building") and edit the
-  content.
-- **Schematic diagram** — the SVG under `<div class="diagram-wrap">` uses
-  absolute coordinates for the boxes and connecting lines; nudge the `x`/`y`
-  values if you add or remove a layer.
+### `// get in touch`
+
+[william.dinh.dev@gmail.com](mailto:william.dinh.dev@gmail.com) · Helsingborg, Sweden
+
+Open to full-stack and frontend-leaning roles — always happy to talk about a project.
